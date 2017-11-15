@@ -4,17 +4,16 @@
     "description": "Popular Visual Studio Code extensions for Markdown",
     "version": "0.0.2",
     "publisher": "bat67",
-    "license": "SEE LICENSE IN LICENSE.txt",
     "icon": "icon.jpg",
     "engines": {
         "vscode": "^1.10.0"
     },
     "galleryBanner": {
-		"color": "#333333",
+        "color": "#333333",
 		"theme": "dark"
     },
     "keywords": [
-		"markdown",
+        "markdown",
 		"markdownlint",
         "LaTex",
         "linter",
@@ -24,6 +23,16 @@
     "categories": [
         "Extension Packs"
     ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/bat67/markdown-extension-pack"
+	},
+	"homepage": "https://github.com/bat67/markdown-extension-pack",
+	"bugs": {
+        "url": "https://github.com/bat67/markdown-extension-pack/issues",
+        "email": "244596167@qq.com"
+    },
     "extensionDependencies": [ 
         "DavidAnson.vscode-markdownlint", 
         "shd101wyy.markdown-preview-enhanced", 
