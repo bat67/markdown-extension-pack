@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
@@ -17,8 +17,7 @@
 		"markdownlint",
         "LaTex",
         "linter",
-		"extension",
-		"pack"
+		"extension pack"
 	],
     "categories": [
         "Extension Packs"
