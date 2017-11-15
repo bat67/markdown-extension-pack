@@ -1,0 +1,32 @@
+{
+    "name": "markdown-extension-pack",
+    "displayName": "Markdown Extension Pack",
+    "description": "Popular Visual Studio Code extensions for Markdown",
+    "version": "0.0.2",
+    "publisher": "bat67",
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "icon": "icon.jpg",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "galleryBanner": {
+		"color": "#333333",
+		"theme": "dark"
+    },
+    "keywords": [
+		"markdown",
+		"markdownlint",
+        "LaTex",
+        "linter",
+		"extension",
+		"pack"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "DavidAnson.vscode-markdownlint", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "yzhang.markdown-all-in-one"
+    ]
+}
