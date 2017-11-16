@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
@@ -33,9 +33,10 @@
         "email": "244596167@qq.com"
     },
     "extensionDependencies": [ 
-        "DavidAnson.vscode-markdownlint", 
-        "shd101wyy.markdown-preview-enhanced", 
         "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint", 
+        "goessner.mdmath",
+        "shd101wyy.markdown-preview-enhanced",
         "yzane.markdown-pdf",
         "AlanWalk.markdown-toc"
     ]
