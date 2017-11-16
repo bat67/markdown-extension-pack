@@ -14,7 +14,7 @@
 ## Introduction
 
 - This extension pack packages some of the most popular (and some of my favorite) Markdown extensions.
-Hope these will make Markdown writing easier and fun. ^_^
+- Hope these will make Markdown writing easier and fun. ^_^
 
 ## How to install
 
@@ -32,7 +32,6 @@ Hope these will make Markdown writing easier and fun. ^_^
 ## Contributing
 
 - Bugs, feature requests, and more, in [GitHub Issues](https://github.com/bat67/markdown-extension-pack/issues).
-
 - Or write a review on [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=bat67.markdown-extension-pack#review-details)
 
 ## Want to see your extension added?
