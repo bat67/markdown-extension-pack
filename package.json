@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
