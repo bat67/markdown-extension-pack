@@ -2,6 +2,9 @@
 
 All notable changes to the "markdown-extension-pack" extension pack will be documented in this file.
 
+## 0.4.0
+- Add [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+
 ## 0.3.0
 - Add [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare), thanks for [lostintangent's PR](https://github.com/bat67/markdown-extension-pack/pull/2)
 - Add [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify) and [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji), thanks for [danilofreire' issue](https://github.com/bat67/markdown-extension-pack/issues/1)

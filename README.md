@@ -3,11 +3,11 @@
 <!-- TOC -->
 
 - [Markdown Extension Pack](#markdown-extension-pack)
-    - [Introduction](#introduction)
-    - [How to install](#how-to-install)
-    - [Extensions Included](#extensions-included)
-    - [Contributing](#contributing)
-    - [Want to see your extension added?](#want-to-see-your-extension-added)
+  - [Introduction](#introduction)
+  - [How to install](#how-to-install)
+  - [Extensions Included](#extensions-included)
+  - [Contributing](#contributing)
+  - [Want to see your extension added?](#want-to-see-your-extension-added)
 
 <!-- /TOC -->
 
@@ -31,6 +31,7 @@
 - [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Adds collaborative editing support directly into VS Code, which makes it possible to work on Markdown files with others in real-time!
 - [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify) - Makes tables more readable for humans. Compatible with the Markdown writer plugin's table formatter feature in Atom.
 - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) - Adds :emoji: syntax support to VS Code's built-in Markdown preview
+- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) - Provides path completion for visual studio code. Maybe can be used in inserting file links in Markdown.
 
 ## Contributing
 

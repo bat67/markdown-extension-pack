@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
@@ -29,8 +29,7 @@
 	},
 	"homepage": "https://github.com/bat67/markdown-extension-pack",
 	"bugs": {
-        "url": "https://github.com/bat67/markdown-extension-pack/issues",
-        "email": "244596167@qq.com"
+        "url": "https://github.com/bat67/markdown-extension-pack/issues"
     },
     "extensionDependencies": [ 
         "yzhang.markdown-all-in-one",
@@ -41,6 +40,7 @@
         "AlanWalk.markdown-toc",
         "MS-vsliveshare.vsliveshare",
         "darkriszty.markdown-table-prettify",
-        "bierner.markdown-emoji"
+        "bierner.markdown-emoji",
+        "ionutvmi.path-autocomplete"
     ]
 }
