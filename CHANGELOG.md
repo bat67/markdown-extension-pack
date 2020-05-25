@@ -2,6 +2,10 @@
 
 All notable changes to the "markdown-extension-pack" extension pack will be documented in this file.
 
+## 0.5.0
+- Add [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox), [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles), [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense), and [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image).
+- Delete [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
 ## 0.4.0
 - Add [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
 

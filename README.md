@@ -28,10 +28,13 @@
 - [Markdown+Math](https://marketplace.visualstudio.com/items?itemName=goessner.mdmath) - Mdmath allows to use Visual Studio Code as a markdown editor capable of typesetting and rendering TeX math. In fact it now reuses the built in markdown viewer. KaTeX works inside as a fast math renderer.
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
 - [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc) - Generate TOC (table of contents) of headlines from parsed markdown file.
-- [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Adds collaborative editing support directly into VS Code, which makes it possible to work on Markdown files with others in real-time!
 - [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify) - Makes tables more readable for humans. Compatible with the Markdown writer plugin's table formatter feature in Atom.
-- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) - Adds :emoji: syntax support to VS Code's built-in Markdown preview
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) - Adds :emoji: syntax support to VS Code's built-in Markdown preview.
+- [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) - Adds suggestions and autocomplete for emoji to VS Code.
 - [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete) - Provides path completion for visual studio code. Maybe can be used in inserting file links in Markdown.
+- [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) - Adds support for Github's `- [ ]` and `- [x]` checkbox syntax to VS Code's built-in markdown preview.
+- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match Github's styling.
+- [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image) - Smartly paste for Markdown.
 
 ## Contributing
 

@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
@@ -22,7 +22,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "license": "SEE LICENSE IN LICENSE.txt",
+    "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/bat67/markdown-extension-pack"
@@ -38,9 +38,11 @@
         "shd101wyy.markdown-preview-enhanced",
         "yzane.markdown-pdf",
         "AlanWalk.markdown-toc",
-        "MS-vsliveshare.vsliveshare",
         "darkriszty.markdown-table-prettify",
         "bierner.markdown-emoji",
-        "ionutvmi.path-autocomplete"
+        "ionutvmi.path-autocomplete",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-preview-github-styles",
+        "telesoho.vscode-markdown-paste-image"
     ]
 }
