@@ -35,6 +35,8 @@
 - [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) - Adds support for Github's `- [ ]` and `- [x]` checkbox syntax to VS Code's built-in markdown preview.
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match Github's styling.
 - [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image) - Smartly paste for Markdown.
+- [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) - Handy shortcuts for editing Markdown (.md, .markdown) files. You can also use markdown formats in any other file.
+- [Excel to Markdown table](https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table) - This VSCode extension converts Excel data to Markdown table format. Available through command Excel to Markdown table and keyboard shortcut Shift+Alt+V.
 
 ## Contributing
 
