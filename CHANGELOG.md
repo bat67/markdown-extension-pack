@@ -2,10 +2,12 @@
 
 All notable changes to the "markdown-extension-pack" extension pack will be documented in this file.
 
+## 0.7.0
+- Add [Medium to Markdown](https://marketplace.visualstudio.com/items?itemName=moshfeu.vscode-medium-to-markdown), thanks for [moshfeu's PR](https://github.com/bat67/markdown-extension-pack/pull/6)
+- Fix unincluded [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense), thanks for [starriddle's issue](https://github.com/bat67/markdown-extension-pack/issues/5) and [RobertBernstein's PR](https://github.com/bat67/markdown-extension-pack/pull/7)
+
 ## 0.6.0
 - Add [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) and [Excel to Markdown table](https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table), thanks for doggy8088's [issue1](https://github.com/bat67/markdown-extension-pack/issues/4) and [issue2](https://github.com/bat67/markdown-extension-pack/issues/3)
-
-
 
 ## 0.5.0
 - Add [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox), [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles), [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense), and [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image).

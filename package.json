@@ -2,7 +2,7 @@
     "name": "markdown-extension-pack",
     "displayName": "Markdown Extension Pack",
     "description": "Popular Visual Studio Code extensions for Markdown",
-    "version": "0.6.0",
+    "version": "0.7.0",
     "publisher": "bat67",
     "icon": "icon.jpg",
     "engines": {
@@ -47,6 +47,6 @@
         "telesoho.vscode-markdown-paste-image",
         "mdickin.markdown-shortcuts",
         "csholmq.excel-to-markdown-table",
-	"moshfeu.vscode-medium-to-markdown"
+        "moshfeu.vscode-medium-to-markdown"
     ]
 }

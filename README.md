@@ -37,6 +37,7 @@
 - [Markdown Paste](https://marketplace.visualstudio.com/items?itemName=telesoho.vscode-markdown-paste-image) - Smartly paste for Markdown.
 - [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts) - Handy shortcuts for editing Markdown (.md, .markdown) files. You can also use markdown formats in any other file.
 - [Excel to Markdown table](https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table) - This VSCode extension converts Excel data to Markdown table format. Available through command Excel to Markdown table and keyboard shortcut Shift+Alt+V.
+- [Medium to Markdown](https://marketplace.visualstudio.com/items?itemName=moshfeu.vscode-medium-to-markdown) - Use Medium to Markdown to fetch and convert your Medium posts into local markdown files.
 
 ## Contributing
 
